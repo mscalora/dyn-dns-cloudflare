@@ -1,8 +1,8 @@
 {
   "name": "dyn-dns-cloudflare",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tool to keep cloudflare dns entry up-to-date for dynamic ip using cloudflare's API",
-  "author": "Mike Scalora <mike@scalora.org>",
+  "author": "Mike Scalora <dyn.dns.cloudflare@codeplumber.com>",
   "homepage": "https://github.com/mscalora/dyn-dns-cloudflare",
   "keywords": ["dns", "cloudflare", "dyndns"],
   "bugs": { "url": "https://github.com/mscalora/dyn-dns-cloudflare/issues" },
